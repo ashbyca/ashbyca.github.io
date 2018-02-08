@@ -1,8 +1,8 @@
 # Site settings
 title: Christopher Ashby
 description: 'CYBER ATTACK DETECTION & THREAT RESPONSE LEADER'
-url: 'http://ashbyca.com/'
-baseurl: '/'
+url: 'http://ashbyca.github.io/newsite'
+baseurl: '/newsite'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
