@@ -1,6 +1,6 @@
 # Site settings
 title: Christopher Ashby
-description: 'CYBER ATTACK DETECTION & THREAT RESPONSE LEADER'<br>
+description: 'CYBER ATTACK DETECTION & THREAT RESPONSE LEADER'
 url: 'http://ashbyca.github.io/newsite'
 baseurl: '/newsite'
 # google_analytics: 'UA-XXXXXX-X'
@@ -13,8 +13,7 @@ author:
   facebook_username: ashbyca
   github_username:  ashbyca
   linkedin_username:  ashbyca
-  #resume: 2018_Ashby_Christopher.pdf
-  #pgp_key: gpgpub.txt
+  
 defaults:
   -
     scope:
