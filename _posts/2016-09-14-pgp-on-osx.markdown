@@ -1,0 +1,10 @@
+---
+title:  “PGP on OSX”
+date:   2016-10-014 15:04:23
+categories: [osx]
+tags: [sysadmin, pgp]
+---
+PGP/OSX
+http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
+Instructions on importing keys from key base
+
