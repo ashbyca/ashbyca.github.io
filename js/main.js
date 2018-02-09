@@ -17,7 +17,7 @@ $(document).ready(function () {
     }
   })
 
-$('a.about-button').click(function (e) {
+  $('a.about-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
@@ -29,7 +29,7 @@ $('a.about-button').click(function (e) {
     }
   })
 
-if (window.location.hash && window.location.hash == '#about') {
+  if (window.location.hash && window.location.hash == '#about') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
