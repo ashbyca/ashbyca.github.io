@@ -18,16 +18,16 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 
 ### Forked, hacked, and published thanks to the following team of super smart people...
 
-Developer & Designer: Josh Gerdes
-Special Thanks:  Dale Anthony
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+* Developer & Designer: Josh Gerdes
+* Special Thanks:  Dale Anthony
+* Twitter: @joshgerdes
+* Site: http://joshgerdes.com
+* Location: Minneapolis, MN, USA
 
-Last update: {{ site.time | date: "%Y/%m/%d" }}
-Standards: HTML5, CSS3
-Components: Jekyll
-Software: Sublime Text, Photoshop
+* Last update: 20180209
+* Standards: HTML5, CSS3
+* Components: Jekyll
+* Software: Sublime Text, Photoshop
 
 ---
 
