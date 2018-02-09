@@ -1,8 +1,8 @@
 ---
-title:  “Who am I“
-date:   2018-01-01 8:04:23
-categories: [bio]
-tags: [$dayjob]
+title:  
+date:   
+categories: []
+tags: []
 ---
 Christopher Ashby, has more than 15 years of proven experience participating in a broad range of corporate initiatives including architecting, implementing, and supporting information-security solutions in direct support of business objectives.
 
