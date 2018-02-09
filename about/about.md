@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Christopher Ashby, has more than 15 years of proven experience participating in a broad range of corporate initiatives including architecting, implementing, and supporting information-security solutions in direct support of business objectives.  
 
