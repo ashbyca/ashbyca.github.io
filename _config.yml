@@ -9,7 +9,7 @@ baseurl: '/newsite'
 author:
   name: 'Christopher Ashby'
   email: ashbyc@mac.com
-#twitter_username: joshgerdes
+#twitter_username: 
   facebook_username: ashbyca
   github_username:  ashbyca
   linkedin_username:  ashbyca
@@ -40,4 +40,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
