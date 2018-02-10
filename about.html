@@ -15,46 +15,55 @@ While currently not open to new opportunities, you can view his full background 
 Past and present projects are located on <a href="https://github.com/ashbyca">Github</a>, and a list of current skills and publications are located below.
 
 <h3>Skills</h3>
-
-<canvas id="myChart" width="200" height="200"></canvas>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <script>
-var ctx = document.getElementById("myChart").getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
-        datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
-    }
+window.onload = function () {
+	
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	
+	title:{
+		text:"Fortune 500 Companies by Country"
+	},
+	axisX:{
+		interval: 1
+	},
+	axisY2:{
+		interlacedColor: "rgba(1,77,101,.2)",
+		gridColor: "rgba(1,77,101,.1)",
+		title: "Number of Companies"
+	},
+	data: [{
+		type: "bar",
+		name: "companies",
+		axisYType: "secondary",
+		color: "#014D65",
+		dataPoints: [
+			{ y: 3, label: "Sweden" },
+			{ y: 7, label: "Taiwan" },
+			{ y: 5, label: "Russia" },
+			{ y: 9, label: "Spain" },
+			{ y: 7, label: "Brazil" },
+			{ y: 7, label: "India" },
+			{ y: 9, label: "Italy" },
+			{ y: 8, label: "Australia" },
+			{ y: 11, label: "Canada" },
+			{ y: 15, label: "South Korea" },
+			{ y: 12, label: "Netherlands" },
+			{ y: 15, label: "Switzerland" },
+			{ y: 25, label: "Britain" },
+			{ y: 28, label: "Germany" },
+			{ y: 29, label: "France" },
+			{ y: 52, label: "Japan" },
+			{ y: 103, label: "China" },
+			{ y: 134, label: "US" }
+		]
+	}]
 });
+chart.render();
+
+}
 </script>
 
 <ul class="skill-list">
