@@ -17,39 +17,26 @@ Past and present projects are located on <a href="https://github.com/ashbyca">Gi
 <h3>Skills</h3>
 
 
-<div id="chartContainer" style="height: 300px; width: 100%;"></div>
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-<script>
-window.onload = function () {
-
-var chart = new CanvasJS.Chart("chartContainer", {
-	animationEnabled: true,
-	title:{
-		text: "",
-		horizontalAlign: "left"
-	},
-	data: [{
-		type: "doughnut",
-		startAngle: 60,
-		//innerRadius: 60,
-		indexLabelFontSize: 17,
-		indexLabel: "{label} - #percent%",
-		toolTipContent: "<b>{label}:</b> {y} (#percent%)",
-		dataPoints: [
-			{ y: 85, label: "Network and Systems Operation Security" },
-			{ y: 70, label: "Vulnerability Management" },
-			{ y: 50, label: "Enterprise Security Architecture" },
-			{ y: 30, label: "Big Data Management"},
-			{ y: 20, label: "Incident Response"}
-		]
-	}]
+var ctx = document.getElementById("myChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'polarArea',
+  data: {
+    labels: ["Security Operations", "Vulnerability Management", "Penetration Testing", "Architecture", "Incident Response", "Threat Intelligence", "Security Orchestration and Automation"],
+    datasets: [{
+      backgroundColor: [
+        "#2ecc71",
+        "#3498db",
+        "#95a5a6",
+        "#9b59b6",
+        "#f1c40f",
+        "#e74c3c",
+        "#34495e"
+      ],
+      data: [10, 9, 5, 7, 7, 9, 6]
+    }]
+  }
 });
-chart.render();
 
-}
-</script>
-
-<ul class="skill-list">
 <br>
 <br>
 	
