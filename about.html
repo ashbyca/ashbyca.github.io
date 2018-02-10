@@ -24,7 +24,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	animationEnabled: true,
 	
 	title:{
-		text:"Fortune 500 Companies by Country"
+		text:"Current Skills"
 	},
 	axisX:{
 		interval: 1
@@ -32,15 +32,15 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	axisY2:{
 		interlacedColor: "rgba(1,77,101,.2)",
 		gridColor: "rgba(1,77,101,.1)",
-		title: "Number of Companies"
+		title: "Competency"
 	},
 	data: [{
 		type: "bar",
-		name: "companies",
+		name: "Skill",
 		axisYType: "secondary",
 		color: "#014D65",
 		dataPoints: [
-			{ y: 3, label: "Sweden" },
+			{ y: 95, label: "Network and Systems Operation Security" },
 			{ y: 7, label: "Taiwan" },
 			{ y: 5, label: "Russia" },
 			{ y: 9, label: "Spain" },
