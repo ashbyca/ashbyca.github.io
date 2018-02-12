@@ -4,7 +4,7 @@ description: 'CYBER ATTACK DETECTION & THREAT RESPONSE LEADER'
 url: 'http://ashbyca.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'ashbyca'
 
 author:
   name: 'Christopher Ashby'
