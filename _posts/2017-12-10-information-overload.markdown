@@ -14,10 +14,10 @@ transition was simple.  The paid version has some nice offerings, my favorites b
 
 If your interested, below are my latest OPML export as well as my shared collection to get you started quickly!
 
-<li><a href="https://feedly.com/ashbyca">My Feedly Shared Collections</a></li>
-<li><a href="https://keybase.pub/ashby/feedly_export">OPML Export</a></li>
-
-
+<ul>
+    <li><a href="https://feedly.com/ashbyca">My Feedly Shared Collections</a></li>
+    <li><a href="https://keybase.pub/ashby/feedly_export">OPML Export</a></li>
+</ul>
 
 While this hasn’t solved all my issues re: information overload it has be a welcome addition.  I will update this post with
 relevant information as more habits mature.  You can also review this post from <a href="https://www.recordedfuture.com/smart
