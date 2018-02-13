@@ -10,7 +10,8 @@ I found out the hard way, having received a new machine and resorted to my backu
 
 One the machine where you have the key pair, open a Terminal session followed by typing the command:
 
-``` 
+```
+ 
    sudo /Applications/Utilities/Keychain\ Access.app/Contents/MacOS/Keychain\ Access
 
 ```
