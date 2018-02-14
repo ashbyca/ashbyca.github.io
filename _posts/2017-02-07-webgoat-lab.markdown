@@ -6,7 +6,7 @@ tags: [backup, privacy]
 ---
 In this post I'm going to demonstrate how to create a new virtual machine which will be used for assessing your web application security skills.  At a high-level this will consist of the following compontents:
 
-* Virtualization Software - (VMWare)[https://www.vmware.com] or (VirtualBox.)[https://www.virtualbox.org]
+* Virtualization Software - [VMWare][https://www.vmware.com) or [VirtualBox.](https://www.virtualbox.org)
 * CentOS operating system
 * WebGoat application with dependiencies
 
