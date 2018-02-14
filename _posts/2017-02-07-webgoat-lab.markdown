@@ -14,8 +14,8 @@ Go lets get started....
 
 1. Download [CentOS virtual machine](http://sourceforge.net/projects/virtualboximage/files/CentOS/5.7/CentOS-5.7-i386.7z/download)
  
-..* All commands are executed as <b>root</b> untill otherwise noted.
-..* Machine settings work best with Bridge Networking & DHCP Enabled.
+ ⋅⋅* All commands are executed as <b>root</b> untill otherwise noted.
+ ⋅⋅* Machine settings work best with Bridge Networking & DHCP Enabled.
  
 2. Upgrade operating system with latest software patches and operating system.
 
@@ -47,7 +47,6 @@ Go lets get started....
 ```Bash
 # wget http://apache.spinellicreations.com/tomcat/tomcat-7/v7.0.47/bin/apache-tomcat-7.0.47.tar.gz
 # tar -zcvf apache-tomcat-7.0.47.tar.gz
- 
 ```
 
 6. Download the WebgGoat files
