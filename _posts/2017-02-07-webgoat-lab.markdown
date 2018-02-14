@@ -4,11 +4,11 @@ date:   2017-09-07 15:04:23
 categories: [osx]
 tags: [backup, privacy]
 ---
-In this post I'm going to demonstrate how to create a new virtual machine which will be used to test your application security skills.  At a high-level this will consist of the following compontents:
+In this post I'm going to demonstrate how to create a new virtual machine which will be used for assessing your web application security skills.  At a high-level this will consist of the following compontents:
 
-*Virtualization Software - VMWare or VirtualBox
-*CentOS operating system
-*WebGoat application with dependiencies
+* Virtualization Software - <a href="https://www.vmware.com" VMWare</a> or VirtualBox
+* CentOS operating system
+* WebGoat application with dependiencies
 
 Go lets get started....
 
