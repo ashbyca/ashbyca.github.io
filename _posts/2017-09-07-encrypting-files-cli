@@ -1,0 +1,14 @@
+---
+title:  "Encrypting Files OSX - CLI"
+date:   2017-09-07 15:04:23
+categories: [osx]
+tags: [backup, privacy]
+---
+this in Terminal:
+
+zip -ejr [name] [path to folder]
+[name] is the name you want to give to the resulting archive file (without the “.zip” extension, which the zip command will add automatically).
+
+And [path to folder] is the complete name of the folder with its full path. Instead of typing it, you can just type zip -ejr [name] followed by a space and then drag-and-drop the target folder onto the command line. Terminal will automatically insert the full path with escape characters if required.
+
+For your information, the “e” option stands for “encryption,” the “j” for “junk the path” (otherwise the zip command will archive the complete folder hierarchy leading to your target folder, which you probably don’t want), and “r” stands for “recursive,” which will force the zip command to include the entire contents of the folder in the archive. (Otherwise it will only archive the folder itself without its contents, which is not exactly useful.)
