@@ -18,12 +18,12 @@ http://sourceforge.net/projects/virtualboximage/files/CentOS/5.7/CentOS-5.7-i386
 ***Machine settings work best with Bridge Networking & DHCP Enabled***
  
 Upgrade machine to latest versions
-# yum update
-# yum upgrade
+$ yum update
+$ yum upgrade
  
 Change Hostname and keyboard layouts
-# /etc/sysconfig/keyboard
-# /etc/sysconfig/network
+$ /etc/sysconfig/keyboard
+$ /etc/sysconfig/network
  
 # hostname <insert hostname>
  
