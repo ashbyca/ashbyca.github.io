@@ -14,8 +14,8 @@ Go lets get started....
 
 1. Download [CentOS virtual machine](http://sourceforge.net/projects/virtualboximage/files/CentOS/5.7/CentOS-5.7-i386.7z/download)
  
- ⋅⋅* All commands are executed as <b>root</b> untill otherwise noted.
- ⋅⋅* Machine settings work best with Bridge Networking & DHCP Enabled.
+ * All commands are executed as <b>root</b> untill otherwise noted.
+ * Machine settings work best with Bridge Networking & DHCP Enabled.
  
 2. Upgrade operating system with latest software patches and operating system.
 
