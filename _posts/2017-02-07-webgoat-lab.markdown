@@ -1,3 +1,17 @@
+---
+title:  "WebGoat Lab"
+date:   2017-09-07 15:04:23
+categories: [osx]
+tags: [backup, privacy]
+---
+In this post I'm going to demonstrate how to create a new virtual machine which will be used to test your application security skills.  At a high-level this will consist of the following compontents:
+
+*Virtualization Software - VMWare or VirtualBox
+*CentOS operating system
+*WebGoat application with dependiencies
+
+Go lets get started....
+
 Download *nix virtual machine
 http://sourceforge.net/projects/virtualboximage/files/CentOS/5.7/CentOS-5.7-i386.7z/download
  
