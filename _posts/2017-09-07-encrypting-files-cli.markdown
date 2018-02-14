@@ -12,5 +12,10 @@ For reference, I have found the best options to be "ejr".
 * "j" removes folder hierarchy
 * "r" executes recursively
 
-This will be entered shown below:
+This will be entered in the terminal shown below:
 * zip -ejr [name] [path to folder]
+
+An exmaples would be # zip -ejr archive.zip ~/Documents
+
+With the above example, you are asking the application zip to create a new file named "archive,zip" of all data contained in
+your "Documents" folder, and finally remove all subfolders, and encrypt with a password.
