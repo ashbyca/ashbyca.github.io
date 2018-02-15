@@ -1,6 +1,6 @@
 ---
 title:  "Encrypting Files OSX - CLI"
-date:   2017-08-07 15:04:23
+date:   2015-08-07 15:04:23
 categories: [osx]
 tags: [backup, privacy]
 ---
