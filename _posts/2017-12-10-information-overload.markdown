@@ -16,7 +16,7 @@ If your interested, below are my latest OPML export as well as my shared collect
 
 <ul>
     <li><a href="https://feedly.com/ashbyca">My Feedly Shared Collections</a></li>
-    <li><a href="https://ashby.keybase.pub/Blog/feedly_export">OPML Export</a></li>
+    <li><a href="https://ashby.keybase.pub/Blog/feedly.opml.xml">OPML Export</a></li>
 </ul>
 
 While this hasn’t solved all my issues re: information overload it has be a welcome addition.  I will update this post with
