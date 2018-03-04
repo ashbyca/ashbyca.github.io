@@ -1,10 +1,10 @@
 # Personal Website
-
-### Forked, hacked, and published thanks to the following team of super smart people...
+thanks
+### Forked, hacked, and published using the following tech...
 
 * Standards: HTML5, CSS3
 * Components: Jekyll, Chartjs
-* Software: Sublime Text, Photoshop
+* Software: Sublime Text, Photoshop, Font Awesome
 
 ---
 
