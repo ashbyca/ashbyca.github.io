@@ -1,6 +1,6 @@
 ---
 title:  "Information Overload"
-date:   2017-12-10 15:04:23
+date:   2015-01-10 15:04:23
 categories: [$dayjob]
 tags: [rss, threat intelligence]
 ---
