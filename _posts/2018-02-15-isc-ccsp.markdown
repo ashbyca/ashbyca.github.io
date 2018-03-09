@@ -4,8 +4,8 @@ date:   2018-02-15 15:04:23
 categories: [$dayjob]
 tags: [cloud, certification]
 ---
-Yesterday, after about 2months of studying I sat and passed the the [ISC CCSP](https://www.isc2.org/Certifications/CCSP) exam.  This is a relatively new exam by ISC on Cloud Security.  The exam itself was a lot easier then when I achieved the [CISSP](https://www.isc2.org/Certifications/CISSP) certification in 2007.
+Yesterday, after about 2months of studying I sat and passed my first cloud exam, the Certified Cloud Security Professional [ISC CCSP](https://www.isc2.org/Certifications/CCSP) exam.  This is a relatively new exam by ISC on Cloud Security.  The exam itself was a lot easier then when I achieved the [CISSP](https://www.isc2.org/Certifications/CISSP) certification in 2007.
 
-I can't go into specfics of the exam or content but I can share my [study notes](https://ashby.keybase.pub/Blog/CCSP%20Study%20Notes.txt) and other [relevant docs](https://ashby.keybase.pub/Blog/CCSP%20Material.zip) for others.
+I can't go into specfics of the exam or content but I can share my [study notes](https://ashby.keybase.pub/Blog/CCSP%20Study%20Notes.txt) and other [relevant docs](https://ashby.keybase.pub/Blog/CCSP%20Material.zip) for others if they are interested in achieving this.
 
 Good Luck!
