@@ -1,6 +1,6 @@
 ---
 title:  "WebGoat Lab"
-date:   2015-02-07 15:04:23
+date:   2014-02-07 15:04:23
 categories: [lab]
 tags: [appsec, pentesting, vm]
 ---
