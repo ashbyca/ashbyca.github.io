@@ -2,7 +2,7 @@
 title:  "Quad9 DNS"
 date:   2017-11-10 15:04:23
 categories: [cyber protection]
-tags: [dns, malware, defense]
+tags: [dns, malware]
 ---
 One the many layers of defense I use on my personal network is [Domain Name System (DNS)](https://en.wikipedia.org/wiki/Domain_Name_System) blocking.  For many years I have relied on [OpenDNS](https://www.opendns.com/), but recently the [Global Cyber Alliance](https://www.globalcyberalliance.org) in collaboration with [IBM](https://ibm.com) and [Packet Clearing House](https://www.pch.net/) released a free DNS service that prevents a mariad of malicious activity for free called [Quad9](https://www.quad9.net).
 
