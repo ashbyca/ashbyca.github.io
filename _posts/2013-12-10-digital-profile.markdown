@@ -2,7 +2,7 @@
 title:  "Digital Profile"
 date:   2013-12-10 15:04:23
 categories: [ashby]
-tags: [social, profile]
+tags: [social]
 ---
 For a long-time I used to write on various mediums, had a blog, then like many I stoppped.  No real reason for it except probably time.  During this time (of not blogging) I ended up with a large amount of infromation scattered around the web. 
 
