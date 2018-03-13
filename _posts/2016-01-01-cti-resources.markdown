@@ -9,12 +9,18 @@ The core function of cyber threat intelligence focuses on providing actionable i
 In this post, I'm going to share some of my favorite tools used.  Please note that this isn't an exhaustive list, and will change overtime - be sure to check back often!
 
 
-**Name**|**Purpose**|**Cost**|
-:-----:|:-----:|:-----:
-[Nerdy Data](https://nerdydata.com/search)|SourceCode Search Engine|Free
-[Yandex](https://www.yandex.com/)|Search Engine|Free
-[Censys](https://www.censys.io/)|Search Engine|Free
+**Name**|**Purpose**|
+:-----:|:-----:
+[Nerdy Data](https://nerdydata.com/search)|SourceCode Search Engine
+[Yandex](https://www.yandex.com/)|Search Engine
+[Censys](https://www.censys.io/)|Search Engine
+[ATT&CK](https://attack.mitre.org/wiki/Main_Page)|Curated KB & Model on Behavior
+[Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)|Large XLS of various Ransomware
+[APT Groups & Ops](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)|Large XLS of different APT groups
+[SecurityHeaders](https://securityheaders.io/)|Views HTTP Headers
+[ThreatMiner](https://www.threatminer.org/)|Threat Intel Portal
+
 
  
-
+For a complete list of links associated with DFIR and Intel you should visit [AboutDFIR](http://aboutdfir.com/)
 
