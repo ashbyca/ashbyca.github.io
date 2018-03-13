@@ -2,7 +2,7 @@
 title:  "WebGoat Lab"
 date:   2014-02-07 15:04:23
 categories: [lab]
-tags: [appsec, pentesting, vm]
+tags: [pentesting]
 ---
 In this post I'm going to demonstrate how to create a new virtual machine which will be used for assessing your web application security skills.  At a high-level this will consist of the following compontents:
 
