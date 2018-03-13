@@ -2,7 +2,7 @@
 title:  "Volitility Notes"
 date:   2014-03-07 15:04:23
 categories: [lab]
-tags: [analysis, malware, memory forensics]
+tags: [analysis, malware, forensics]
 ---
 Below are some notes on using Volitility I have for researching/discovering malware in memory.  This most likely won't apply to anyone other then me for at the moment.  I'm currently in the process of automating most of these tasks when investigations are needed.
 
