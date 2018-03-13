@@ -2,7 +2,7 @@
 title:  "Information Overload"
 date:   2015-01-10 15:04:23
 categories: [$dayjob]
-tags: [rss, threat intelligence]
+tags: [threat intelligence]
 ---
 One of the disciplines of being a threat intelligence analyst is consuming large amounts of information and in turn taking
 necessary actions.  This could include media types like, youtube videos, blog posting, physical reports, etc.  You also have
