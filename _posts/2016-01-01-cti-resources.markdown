@@ -19,8 +19,18 @@ In this post, I'm going to share some of my favorite tools used.  Please note th
 [APT Groups & Ops](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)|Large XLS of different APT groups
 [SecurityHeaders](https://securityheaders.io/)|Views HTTP Headers
 [ThreatMiner](https://www.threatminer.org/)|Threat Intel Portal
-
-
+[Threat Crowd](https://www.threatcrowd.org/)
+[Anomali](https://www.anomali.com/)
+[IBM X-Force](https://exchange.xforce.ibmcloud.com)
+[AlienVault](https://otx.alienvault.com)
+[Critial Stack](https://intel.criticalstack.com)
+[InfraGard](https://www.infragard.org/)
+[ThreatConnect](https://app.threatconnect.com/auth/index.xhtml)
+[VirusBay](https://beta.virusbay.io/)
+[Hybrid Analysis](https://www.hybrid-analysis.com)
+[PAN Threat Vault](https://threatvault.paloaltonetworks.com/)
+[Any.Run](https://app.any.run/)
+[OSINT Framework](http://osintframework.com/)
  
 For a complete list of links associated with DFIR and Intel you should visit [AboutDFIR](http://aboutdfir.com/)
 
