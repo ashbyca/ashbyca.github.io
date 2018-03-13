@@ -2,7 +2,7 @@
 title:  "Exporting Private Keys - OSX"
 date:   2015-07-08 15:04:23
 categories: [osx]
-tags: [backup, sysadmin, privacy]
+tags: [privacy]
 ---
 In this post I’m going to explain how to successfully export private/public key pairs from OS X Keychain to a new computer. 
 As your aware, under normal export procedures, the private key isn’t exported — just the public.  This is true for
