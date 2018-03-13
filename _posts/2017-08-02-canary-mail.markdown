@@ -10,5 +10,5 @@ and starting sending encrypted email. Over the next few months, I'm going to use
 until then if your looking for a similiar solution, this might be it. 
 
 Offical Links:
-[Canary Mail](https://canarymail.io/)
+[Canary Mail](https://canarymail.io/)<br>
 [Canary Mail on iTunes](https://itunes.apple.com/us/app/canary-mail-secure-email-app/id1155470386?mt=80)
