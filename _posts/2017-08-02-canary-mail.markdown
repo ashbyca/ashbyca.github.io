@@ -8,6 +8,8 @@ For the longest time, I have stuggled to find a great OSX and iOS email applicat
 
 Over the next few months, I'm going to use this as my daily email driver and will post a full review, until then if your looking for a similiar solution, this might be it. 
 
+If your wondering how to create a PGP key, you can check out this great tutorial posted by [Jerzy J. Gangi](http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/).
+
 Offical Links:<br>
 [Canary Mail](https://canarymail.io/)<br>
 [Canary Mail on iTunes](https://itunes.apple.com/us/app/canary-mail-secure-email-app/id1155470386?mt=80)
