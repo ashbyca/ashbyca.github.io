@@ -2,7 +2,7 @@
 title:  "Encrypting Files OSX - CLI"
 date:   2015-08-07 15:04:23
 categories: [osx]
-tags: [backup, privacy]
+tags: [privacy]
 ---
 MacOS has a great built-in compression utility but unfortunantely the UI options don't include any encryption options.  In 
 order to take advantage of this feature you will need to venture down to the CLI.
