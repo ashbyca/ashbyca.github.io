@@ -27,19 +27,21 @@ Some of my favorite operators include:
 
 ---
 A quick example of how you would construct these in the google search bar are show below.  Please substitute the [website] value with an actual website.
+
 ```site:[website] intitle:index.of .bash_history```
 
-.bash_history file contains what a user typed at a shell command prompt. This file contains commands and usernames and other information that may have been typed in.  .bash_history can also be replaced with .profile, .login, .logout files, .sh_history, etc. 
+> .bash_history file contains what a user typed at a shell command prompt. This file contains commands and usernames and other information that may have been typed in.  .bash_history can also be replaced with .profile, .login, .logout files, .sh_history, etc. 
 
 ```site:[website] inurl:admin inurl:userlist```
 
-This reveals userlists of administrative importance.
+> This reveals userlists of administrative importance.
 
-```site:[website] inurl:"/root/etc/passwd" intext:"home/*:"```
-```site:[website] intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd```
-```intitle:index.of.password```
+```site:[website] inurl:"/root/etc/passwd" intext:"home/*:"
+site:[website] intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd
+intitle:index.of.password
+```
 
-These techniques above would reveal any present passwd files 
+> These techniques above would reveal any present passwd files 
 
 Additional References:
 1. https://www.exploit-db.com/google-hacking-database/
