@@ -36,10 +36,9 @@ A quick example of how you would construct these in the google search bar are sh
 
 > This reveals userlists of administrative importance.
 
-```site:[website] inurl:"/root/etc/passwd" intext:"home/*:"<br>
-site:[website] intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd<br>
-intitle:index.of.password
-```
+```site:[website] inurl:"/root/etc/passwd" intext:"home/*:"```
+```site:[website] intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd```
+```intitle:index.of.password```
 
 > These techniques above would reveal any present passwd files 
 
