@@ -1,8 +1,8 @@
 ---
 title:  "Hacker Documentaries"
 date:   2014-06-18 13:04:23
-categories: [$dayjob]
-tags: []
+categories: [$dayjob ashby]
+tags: [social]
 ---
 Being in the cyber security industry I can't help myself from watching how the media industry dipicts us.  Some of the content is great and on point, while other is just pure entertainment.  For what it's worth, below are my favorite "Hacker"  Documentaries that I recommend everyone watch.  This is especially true if your at all curious.
 
