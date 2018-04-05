@@ -4,10 +4,10 @@ date:   2014-06-18 13:04:23
 categories: [$dayjob]
 tags: []
 ---
-Being in the cyber security industry I can't help myself from watching how the media dipicts us.  Some of the content is great and on point, while other is just pure entertainment.  For what it's worth, below are my favorite "Hacker" or "Security" Documentaries that I recommend everyone watch.
+Being in the cyber security industry I can't help myself from watching how the media industry dipicts us.  Some of the content is great and on point, while other is just pure entertainment.  For what it's worth, below are my favorite "Hacker" /  "Security" Documentaries that I recommend everyone watch.
 
-|                                           Title                                          | Year |                                    Netflix                                   |            Amazon           |
-|:----------------------------------------------------------------------------------------:|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
+| Title                                                                                    | Year |                                    Netflix                                   |            Amazon           |
+|------------------------------------------------------------------------------------------|:----:|:----------------------------------------------------------------------------:|:---------------------------:|
 | [The Secret History of Hacking](http://www.imdb.com/title/tt2335921)                     | 2001 |                                                                              |                             |
 | [Freedom Downtime](http://www.imdb.com/title/tt0309614)                                  | 2001 |                                                                              |                             |
 | [Code 2600](http://www.imdb.com/title/tt1830538)                                         | 2011 |                                                                              | [Link](http://a.co/cBHy7w9) |
@@ -17,3 +17,5 @@ Being in the cyber security industry I can't help myself from watching how the m
 | [Zero Days](http://www.imdb.com/title/tt5446858)                                         | 2016 |                                                                              | [Link](http://a.co/b65tw2E) |
 | [The Hacker Wars](http://www.imdb.com/title/tt4047350)                                   | 2015 |                                                                              | [Link](http://a.co/4ggrG1o) |
 | [Killswitch](http://www.imdb.com/title/tt4067162)                                        | 2014 | [Link](https://www.netflix.com/search?q=killswitch&jbv=80130567&jbp=0&jbr=0) | [Link](http://a.co/dtrqskt) |
+
+I tried to include links for both Amazon and Netflix if available to immedietly watch.  The list will be updated routinely if I happen to watch something that strikes my fancy, so be sure to bookmark and check back.  If I missed something, let me know if the comments.
