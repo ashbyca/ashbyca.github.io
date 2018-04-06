@@ -1,7 +1,7 @@
 ---
 title:  "FTP Script"
 date:   2013-03-07 15:04:23
-categories: [ashby]
+categories: [automation]
 tags: [scripts]
 ---
 Below is a link to a quick script I created for automating local ftp transfers.  I wouldn’t recommend this be used across the internet or from/to networks that aren’t trusted.  As you should be aware, FTP isn’t a secure protocol and all information is sent in clear-text across the wire.  If you in need of a local script, you can give the one below a try, it’s a basic script that uses simple values to pass to the ftp daemon, downloading files requested without any user interaction.
