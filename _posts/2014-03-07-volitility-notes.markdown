@@ -29,3 +29,5 @@ printkey -K "Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1
 "Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"
 "Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3"
 ```
+
+I started working on a srcript to automate these finding, if your interested in testing or reviewing the code please find it [here](https://ashby.keybase.pub/Blog/Scripts/vol_analysis.sh).
