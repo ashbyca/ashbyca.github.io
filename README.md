@@ -10,7 +10,7 @@ Personal website located at http://ashbyca.com
 * Storage: Keybase.io
 
 ### Dynamic Links
-[Categories](https://ashbyca.github.io/categories)
+[Categories](https://ashbyca.github.io/categories)<br>
 [Tags](https://ashbyca.github.io/tags)
 
 ### Copyright and license
