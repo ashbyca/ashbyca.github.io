@@ -1,5 +1,5 @@
 ---
-title:  SCP Script
+title:  "SCP Script"
 date:   2013-04-07 15:04:23
 categories: [ashby]
 tags: [scripts]
