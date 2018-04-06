@@ -19,7 +19,7 @@ It’s important to understand that threat intelligence itself has 4 separate di
 
 A mature strategy consist of threat objectives, where each discipline and/or technique (with or without technology) is used as inputs and ultimately outputs.  I’ve included a couple of items below that outline more details on a creating a holistic strategy for threat intelligence. 
 
-References:
+References:<br>
 [Gartner Blog](https://blogs.gartner.com/anton-chuvakin/2014/01/30/on-broad-types-of-threat-intelligence)<br>
 [Anomali Blog](https://www.anomali.com/blog/what-is-strategic-threat-intelligence#When:16:00:00Z)<br>
 [Recorded Future Blog](https://www.recordedfuture.com/cyber-threat-intelligence-team)<br>
