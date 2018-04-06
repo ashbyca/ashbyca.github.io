@@ -7,8 +7,11 @@ Personal website located at http://ashbyca.com
 * Standards: HTML5, CSS3
 * Components: Jekyll, Chartjs
 * Software: Sublime Text, Photoshop, Font Awesome
+* Storage: Keybase.io
 
----
+### Dynamic Links
+[Categories](https://ashbyca.github.io/categories)
+[Tags](https://ashbyca.github.io/tags)
 
 ### Copyright and license
 
