@@ -1,7 +1,7 @@
 ---
 title:  "SCP Script"
 date:   2013-04-07 15:04:23
-categories: [ashby]
+categories: [automation]
 tags: [scripts]
 ---
 Here is another script I created for automating scp downloads.  While this script uses expect to securely transfer the password to scp, you have to take precautions to safeguard the script itself as it contains the password.  I wouldn’t use this script across the internet, but for LAN transfers using scp it works.
