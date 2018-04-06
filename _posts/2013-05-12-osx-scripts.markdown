@@ -1,5 +1,5 @@
 ---
-title:  “OSX Scripts”
+title:  "OSX Scripts"
 date:   2013-05-12 15:04:23
 categories: [ashby]
 tags: [scripts]
