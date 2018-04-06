@@ -1,7 +1,7 @@
 ---
 title:  "DNS Script"
 date:   2013-01-04 15:04:23
-categories: [ashby]
+categories: [automation]
 tags: [scripts]
 ---
 Below is a link to a quick script I created while doing some research on various endpoint and needed DNS information.  This script basically performs large lookups and writes all the information to a results file.  It’s a basic but works great, it’s intended to work on any Windows computer.
