@@ -8,9 +8,9 @@ Below is a link to a quick script I created while doing some research on various
 
 Prior to use, modifications will need to be made and include:
 
-*Change the <dir> value with the absolute path where the script is located.
-*Change ns1 and ns2 to include your DNS servers
-*Change the endpoint1 and endpoint2 values to include the hostnames you wish to perform a lookup against
+* Change the <dir> value with the absolute path where the script is located<br>
+* Change ns1 and ns2 to include your DNS servers<br>
+* Change the endpoint1 and endpoint2 values to include the hostnames you wish to perform a lookup against<br>
 
 After save the file, execute the script and when completed you will have a txt file that contains complete results.  If you receive errors they will be displayed in the command window.
 
