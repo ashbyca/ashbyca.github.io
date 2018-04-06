@@ -11,10 +11,10 @@ Prior to use, modifications will need to be made and include:
 * Change the host value<br>
 * Change the user value<br>
 * Change the passwd value<br>
-* Change the file value (this is the local file to upload)
-* Change the remotefile value (this is the remote file to be uploaded)
+* Change the file value (this is the local file to upload)<br>
+* Change the remotefile value (this is the remote file to be uploaded)<br>
  
 
-After save the file, execute the script and when completed you will have a txt file that contains complete results.  If you receive errors they will be displayed in the command window.
+After save the file and execute the script.  All output will be in the command window.  If you receive errors they will be displayed in the command window.
 
 You can download the script [here](https://ashby.keybase.pub/Blog/Scripts/ftptransfer.sh).
