@@ -1,5 +1,5 @@
 ---
-title:  "sysadmin Scripts"
+title:  "Terminal Logging Script"
 date:   2013-06-17 15:04:23
 categories: [ashby]
 tags: [scripts]
