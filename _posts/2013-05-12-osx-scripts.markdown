@@ -1,7 +1,7 @@
 ---
 title:  "OSX Scripts"
 date:   2013-05-12 15:04:23
-categories: [ashby]
+categories: [automation]
 tags: [scripts]
 ---
 Lately I have been playing around with Apple Script Editor to automate some tasks on my OSX device.  Descriptions and links are below if you find these useful or want to test:
