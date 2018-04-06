@@ -13,6 +13,6 @@ To use and install the script:
   
   **Note you will need to modify your preferences in the terminal app to startup this script**
   		  
- -![Image of Terminal Preferences](https://cloud.githubusercontent.com/assets/6200040/19460249/da26f0f8-94a7-11e6-91cb-c179876ab4b3.png)	
+ ![Image of Terminal Preferences](https://cloud.githubusercontent.com/assets/6200040/19460249/da26f0f8-94a7-11e6-91cb-c179876ab4b3.png)	
  
  Now, you can use the Console application to view live log files or historical commands to oppose unix utilities if you choose.
