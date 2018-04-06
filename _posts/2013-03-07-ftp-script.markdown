@@ -1,5 +1,5 @@
 ---
-title:  FTP Script
+title:  "FTP Script"
 date:   2013-03-07 15:04:23
 categories: [ashby]
 tags: [scripts]
