@@ -12,4 +12,4 @@ All scripts have been tested to work with CentOS v5/6.
   
 * [motd.sh](https://ashby.keybase.pub/Blog/Scripts/motd.sh) - script for CentOS that creates a simple motd output.
 
-I'll post more to this page as they become avaialble.
+I'll post more to this page as they become available.
