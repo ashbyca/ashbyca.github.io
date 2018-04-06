@@ -1,5 +1,7 @@
 # Personal Website
-thanks
+
+Personal website located at http://ashbyca.com
+
 ### Forked, hacked, and published using the following tech...
 
 * Standards: HTML5, CSS3
