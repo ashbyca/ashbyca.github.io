@@ -15,14 +15,14 @@ It’s important to understand that threat intelligence itself has 4 separate di
 1. Tactical : TTPs, info on actors and attacks
 2. Technical : raw technical data usually received through feeds
 3. Operational : data on specific attacks that are targeting an organization
-4. Strategic : high level information including financial impact, briefings, trends, etc.
+4. Strategic : high level information including financial impact, briefings, and/or trends
 
 A mature strategy consist of threat objectives, where each discipline and/or technique (with or without technology) is used as inputs and ultimately outputs.  I’ve included a couple of items below that outline more details on a creating a holistic strategy for threat intelligence. 
 
 References:
-[Gartner Blog](https://blogs.gartner.com/anton-chuvakin/2014/01/30/on-broad-types-of-threat-intelligence)
-[Anomali Blog](https://www.anomali.com/blog/what-is-strategic-threat-intelligence#When:16:00:00Z)
-[Recorded Future Blog](https://www.recordedfuture.com/cyber-threat-intelligence-team)
-[Dark Reading](https://www.darkreading.com/threat-intelligence/3-pillars-of-cyberthreat-intelligence/a/d-id/1330473)
-[Data Breach Today](https://www.databreachtoday.com/threat-intelligence-power-attribution-a-10314)
-[Helpnetsecurity Blog](https://www.helpnetsecurity.com/2017/03/01/operatively-sourced-threat-intelligence/)
+[Gartner Blog](https://blogs.gartner.com/anton-chuvakin/2014/01/30/on-broad-types-of-threat-intelligence)<br>
+[Anomali Blog](https://www.anomali.com/blog/what-is-strategic-threat-intelligence#When:16:00:00Z)<br>
+[Recorded Future Blog](https://www.recordedfuture.com/cyber-threat-intelligence-team)<br>
+[Dark Reading](https://www.darkreading.com/threat-intelligence/3-pillars-of-cyberthreat-intelligence/a/d-id/1330473)<br>
+[Data Breach Today](https://www.databreachtoday.com/threat-intelligence-power-attribution-a-10314)<br>
+[Helpnetsecurity Blog](https://www.helpnetsecurity.com/2017/03/01/operatively-sourced-threat-intelligence/)<br>
