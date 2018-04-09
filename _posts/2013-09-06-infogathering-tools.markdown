@@ -8,7 +8,7 @@ Today, I’m going to share a few "Information Gathering" resources I use as my 
 
 
 |                              Tool                              |                                                                                                       Purpose                                                                                                       |
-|:--------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [machinae](https//github.com/HurricaneLabs/machinae)           | Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data including IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints |
 | [aws-bucket-dump](https//github.com/jordanpotti/AWSBucketDump) | AWSBucketDump is a tool to quickly enumerate AWS S3 buckets to look for loot                                                                                                                                        |
 | [domain_analyzer](https//github.com/eldraco/domain_analyzer)   |  Domain analyzer is a security analysis tool which automatically discovers and reports information about the given domain. Its main purpose is to analyze domains in an unattended way                              |
