@@ -8,5 +8,5 @@ I happen to read a lot.. From comics, deep technical books, politics, to my favo
 
  1. [@Attrc Reading List](http://www.dfir.org/?q=node/8) - Good list of DFIR Books
  2. [SANS Reading List](https://www.sans.edu/cyber-research/book-reviews/article/security-books-best) - General Security Books
- 3. [Scott Roberts Reading List(https://medium.com/@sroberts/cti-reading-list-a93ccdd7469c) - Great CTI Books
+ 3. [Scott Roberts Reading List](https://medium.com/@sroberts/cti-reading-list-a93ccdd7469c) - Great CTI Books
  
