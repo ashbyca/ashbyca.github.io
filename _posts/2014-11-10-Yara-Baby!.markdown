@@ -4,8 +4,9 @@ date:   2014-11-10 15:04:23
 categories: [threat intelligence]
 tags: [malware]
 ---
-[Yara](https://virustotal.github.io/yara/) is awesome!  It's one of the best malware analysis tools developed for identifying, finding, and quickly remediating malware specimes based on a set of characteristics.  It's become my goto utility for threat hunting and is becoming increasingly popular.  If your not familiar with this tool, please review the resources below.  For those interested, I'm sharing my collection of [Yara Rules](https://keybase.pub/ashby/Yara) for use. 
+[Yara](https://virustotal.github.io/yara/) is awesome!  It's one of the best malware analysis tools developed for identifying, finding, and quickly remediating malware specimes based on a set of characteristics.  Being orgianlly developed for classifying maleare, it's become my goto utility for threat hunting and is becoming increasingly popular.  If your not familiar with this tool, please review the resources below.  For those interested, I'm sharing my collection of [rules](https://keybase.pub/ashby/Yara) for use. 
 
 Resources:<br>
 * [Yara Explained - Malwarebytes](https://blog.malwarebytes.com/security-world/technology/2017/09/explained-yara-rules/)<br>
 * [Official Yara Site](https://virustotal.github.io/yara/)<br>
+* [Security Intelligence](https://securityintelligence.com/signature-based-detection-with-yara/)
