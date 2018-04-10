@@ -1,6 +1,6 @@
 ---
 title:  "Search Techniques"
-date:   2015-02-12 15:04:23
+date:   2014-07-12 15:04:23
 categories: [$dayjob]
 tags: [threat intelligence]
 ---
