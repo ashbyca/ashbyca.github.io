@@ -1,6 +1,6 @@
 ---
 title:  "Exporting Private Keys - OSX"
-date:   2015-07-08 15:04:23
+date:   2014-06-08 15:04:23
 categories: [osx]
 tags: [privacy]
 ---
