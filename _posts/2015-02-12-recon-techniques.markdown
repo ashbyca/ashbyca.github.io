@@ -8,7 +8,7 @@ tags: [threat intelligence]
 Some of my favorite operators include:
 
 * site
-> The site operator instructs Google to restrict a search to a specific web site or domain. The web site to search must be supplied after the colon. 
+'''The site operator instructs Google to restrict a search to a specific web site or domain. The web site to search must be supplied after the colon.'''
 
 * filetype
 > The filetype operator instructs Google to search only within the text of a particular type of file. The file type to search must be supplied after the colon. Don't include a period before the file extension. 
