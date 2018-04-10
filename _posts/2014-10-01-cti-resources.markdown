@@ -1,6 +1,6 @@
 ---
 title:  "CTI Resources"
-date:   2016-01-10 15:04:23
+date:   2014-10-10 15:04:23
 categories: [$dayjob]
 tags: [threat intelligence]
 ---
