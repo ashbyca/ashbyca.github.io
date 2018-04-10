@@ -1,5 +1,5 @@
 ---
-title:  "Recon Techniques"
+title:  "Search Techniques"
 date:   2015-02-12 15:04:23
 categories: [$dayjob]
 tags: [threat intelligence]
