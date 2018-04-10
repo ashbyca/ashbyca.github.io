@@ -13,9 +13,7 @@ imported/used as the private key was missing.
 
 One the machine where you have the key pair, open a Terminal session followed by typing the command:
 
-```Bash
-$ sudo /Applications/Utilities/Keychain\ Access.app/Contents/MacOS/Keychain\ Access
-```
+```$ sudo /Applications/Utilities/Keychain\ Access.app/Contents/MacOS/Keychain\ Access```
 
 This will open the Keychain application as root.  Once the application is opened, find your value that you wish to export and
 right-click and select export.
