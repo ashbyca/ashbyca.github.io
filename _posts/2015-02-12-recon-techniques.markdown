@@ -42,6 +42,6 @@ A quick example of how you would construct these in the google search bar are sh
 
   * These techniques above would reveal any present passwd files 
 
-Additional References:
-https://www.exploit-db.com/google-hacking-database/
+Additional References:<br>
+https://www.exploit-db.com/google-hacking-database/<br>
 https://en.wikipedia.org/wiki/Google_hacking
