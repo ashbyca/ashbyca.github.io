@@ -1,5 +1,5 @@
 ---
-title:  “TI Gathering Resources”
+title:  “Data Gathering Resources”
 date:   2013-09-06 15:04:23
 categories: [threat intelligence]
 tags: [tools]
