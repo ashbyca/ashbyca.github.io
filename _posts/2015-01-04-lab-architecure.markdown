@@ -1,5 +1,5 @@
 ---
-title:  “Lab Architecture”
+title:  "Lab Architecture"
 date:   2015-01-04 15:04:23
 categories: [lab]
 tags: [architecture]
