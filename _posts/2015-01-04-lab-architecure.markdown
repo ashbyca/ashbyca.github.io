@@ -35,12 +35,12 @@ I also have the same victim machine in this lab, which is just a copy for testin
 
 A lot of good articles can be found online for building these two skill sets, I included a  good list in the reference section below and will continue to update these when new articles are found.
 
-References:
+References:<br>
 [Awesome Hacking Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)<br>
-[Debugging Complex Malware](https://www.fireeye.com/blog/threat-research/2018/01/debugging-complex-malware-that-executes-code-on-the-heap.html)
-[Penetration Testers’ Guide to Windows 10 Privacy & Security](https://www.linkedin.com/pulse/penetration-testers-guide-windows-10-privacy-security-andrew-douma/)
-[Metasploit Walkthrough](http://resources.infosecinstitute.com/metasploitable-1-walkthrough/)
-[Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
-[Building an Analysis Toolkit](https://swannysec.net/2015/10/10/building-an-analysis-toolkit.html)
-[Expiring Payloads](https://www.gironsec.com/blog/2018/01/expiring-payloads-in-the-metasploit-framework/)
-[Understanding CSRF](http://www.hackingarticles.in/understanding-csrf-vulnerability-beginner-guide/)
+[Debugging Complex Malware](https://www.fireeye.com/blog/threat-research/2018/01/debugging-complex-malware-that-executes-code-on-the-heap.html)<br>
+[Penetration Testers’ Guide to Windows 10 Privacy & Security](https://www.linkedin.com/pulse/penetration-testers-guide-windows-10-privacy-security-andrew-douma/)<br>
+[Metasploit Walkthrough](http://resources.infosecinstitute.com/metasploitable-1-walkthrough/)<br>
+[Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)<br>
+[Building an Analysis Toolkit](https://swannysec.net/2015/10/10/building-an-analysis-toolkit.html)<br>
+[Expiring Payloads](https://www.gironsec.com/blog/2018/01/expiring-payloads-in-the-metasploit-framework/)<br>
+[Understanding CSRF](http://www.hackingarticles.in/understanding-csrf-vulnerability-beginner-guide/)<br>
