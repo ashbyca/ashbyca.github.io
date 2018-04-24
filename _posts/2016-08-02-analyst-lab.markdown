@@ -8,7 +8,7 @@ Every now and then I like to get my hands dirty and lend a helping hand.  Today 
 
 ** All utilities are installed as outlined in their readme file with required dependencies.
 
-Recon / Data Gathering:
+**Recon / Data Gathering:**
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/wiki/Usage%20Guide)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Wig-WebApp](https://github.com/jekyc/wig) - Infomation Gatherer for Websites 
@@ -22,17 +22,17 @@ Recon / Data Gathering:
 * [credmap](https://github.com/lightos/credmap)
 * [pwned](https://github.com/wKovacs64/pwned) - tool to check haveibeenpwned.com
 
-Penetration Testing:
+**Penetration Testing:**
 * [apt2](https://github.com/MooseDojo/apt2)
 * [metasploit](https://github.com/rapid7/metasploit-framework/)
 * [getsploit](https://github.com/vulnersCom/getsploit)
 
-General Utilities:
+**General Utilities:**
 * [Microsoft Powershell](https://github.com/powershell/powershell)
 * [ioc Parser](https://github.com/armbues/ioc_parser)
 * [Keybase](https://keybase.io)
 
-Additional Resources<br>
+**Additional Resources<br>**
 * [seclists](https://github.com/danielmiessler/SecLists)<br>
 * [yara-rules](https://github.com/Yara-Rules/rules)<br>
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)<br>
