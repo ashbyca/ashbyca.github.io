@@ -11,16 +11,16 @@ Every now and then I like to get my hands dirty and lend a helping hand.  Today 
 Recon / Data Gathering:
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/wiki/Usage%20Guide)
 * [theHarvester](https://github.com/laramies/theHarvester)
-* [Wig-WebApp](https://github.com/jekyc/wig) - Info Gatherer, Websites 
+* [Wig-WebApp](https://github.com/jekyc/wig) - Infomation Gatherer for Websites 
 * [ShodanCLI](https://cli.shodan.io) - Shodan commandline utility
-* [machinae](https://github.com/HurricaneLabs/machinae)
+* [machinae](https://github.com/HurricaneLabs/machinae) - Threat Intelligence lookup tool
 * [dnstwist](https://github.com/elceef/dnstwist)
 * [domain_analyzer](https://github.com/eldraco/domain_analyzer)
 * [just-metadata](https://github.com/ChrisTruncer/Just-Metadata)
-* [Blacklist]() Shell script to determine if a given ip is blacklisted
-* [muffet](https://github.com/raviqqe/muffet) Fast website link checker
+* [Blacklist]() - Shell script to determine if a given ip is blacklisted
+* [muffet](https://github.com/raviqqe/muffet) - Fast website link checker
 * [credmap](https://github.com/lightos/credmap)
-* [pwned](https://github.com/wKovacs64/pwned)
+* [pwned](https://github.com/wKovacs64/pwned) - tool to check haveibeenpwned.com
 
 Penetration Testing:
 * [apt2](https://github.com/MooseDojo/apt2)
@@ -38,7 +38,7 @@ Additional Resources<br>
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)<br>
 * [secrepo](https://github.com/sooshie/secrepo)<br>
 * [threathunting](https://github.com/ThreatHuntingProject/ThreatHunting)<br>
-* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)<v\br>
+* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)<br>
 
 As new tools are added and/or replaced, the list above will be updated.
 
