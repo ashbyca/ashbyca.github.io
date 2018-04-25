@@ -2,7 +2,7 @@
 title:  "Cloud Computing"
 date:   2017-11-10 15:04:23
 categories: [lab]
-tags: [cloud]
+tags: [architecture]
 ---
 As of late, I’ve been playing around with the various cloud instances being offered by [Microsoft](https://azure.microsoft.com/), [Amazon](https://aws.amazon.com/), and [Google](https://cloud.google.com/) in an effort to take my daily compute to the clouds and ditch a traditional laptop/desktop and for either a Chromebook or iPad as my daily driver.  
 
