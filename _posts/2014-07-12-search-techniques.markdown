@@ -1,7 +1,7 @@
 ---
 title:  "Search Techniques"
 date:   2014-07-12 15:04:23
-categories: [$dayjob]
+categories: [threat intelligence]
 tags: [threat intelligence]
 ---
 [Google Dorking](http://www.businessinsider.com/term-of-the-day-google-dorking-2014-8) is a powerful technique used to silently obtain information on various targets to assist in both research and furthering attack.
