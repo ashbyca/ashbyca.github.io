@@ -1,8 +1,8 @@
 ---
 title:  "Data Gathering Resources"
 date:   2013-09-06 15:04:23
-categories: [$dayjob]
-tags: [threat intelligence]
+categories: [threat intelligence]
+tags: [tools]
 ---
 Today, I’m going to share a few "Information Gathering" resources I use as my daily driver to obtain specific data on various subjects.  This could include domain information, pDNS, whois, category of services, owner, etc.  As always this isn’t a conclusive list and may others exists in this space.  All of these tools run natively on OSX with  Homebrew and the necessary dependencies.  
 
