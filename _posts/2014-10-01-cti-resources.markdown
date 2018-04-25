@@ -32,5 +32,19 @@ In this post, I'm going to share some of my favorite tools used.  Please note th
 [Any.Run](https://app.any.run/)|Malware Sandbox
 [OSINT Framework](http://osintframework.com/)|Infromation Exchange
  
-For a complete list of links associated with DFIR and Intel you should visit [AboutDFIR](http://aboutdfir.com/)
+For a complete list of links associated with DFIR and Intel you should visit [AboutDFIR](http://aboutdfir.com/).  Additionally I am part of the following [slack](slack.com)communities that provide a wealth of information:
+* [Google Cloud](googlecloud-community.slack.com)
+* [ITCrowd](itcrowd.slack.com)
+* [MacAdmins](macadmins.slack.com)
+* [Python Dev](pythondev.slack.com)
+* [OWASP](owasp.slack.com)
+* [Demisto DFIR](dfircommunity.slack.com)
+
+Additional list of great resources on github include:<br>
+* [seclists](https://github.com/danielmiessler/SecLists)
+* [yara-rules](https://github.com/Yara-Rules/rules)
+* [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
+* [secrepo](https://github.com/sooshie/secrepo)
+* [threathunting](https://github.com/ThreatHuntingProject/ThreatHunting)
+* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
