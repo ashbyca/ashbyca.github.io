@@ -1,7 +1,7 @@
 ---
 title:  "CTI Resources"
 date:   2014-10-10 15:04:23
-categories: [$dayjob]
+categories: [threat intelligence]
 tags: [threat intelligence]
 ---
 One of the core function of cyber threat intelligence analyst focuses on providing actionable information on adversaries in an effort to remain one step ahead.  In my [previous post](https://ashbyca.github.io/2015/information-overload/) I shared my love for Feedly, which allows me to review large amounts of information around the web, also provided a link to my exported [OPML file](https://ashby.keybase.pub/Blog/feedly.opml.xml) for you to jump start your research.
