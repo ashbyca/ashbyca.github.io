@@ -2,7 +2,7 @@
 title:  "Machinae - XForce"
 date:   2017-12-15 15:04:23
 categories: [threat intelligence]
-tags: [threat intelligence]
+tags: [tools]
 ---
 Recently I've been looking to extend a tool from HuricaneLabs named ["Machinae"](https://github.com/HurricaneLabs/machinae), which is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints. This replaced my daily driver [Automator](http://www.tekdefense.com/automater/) for obtaining context on particular subjects.
 
