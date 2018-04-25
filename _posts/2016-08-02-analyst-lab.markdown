@@ -6,7 +6,7 @@ tags: [Cloud]
 ---
 Every now and then I like to get my hands dirty and lend a helping hand.  Today I'm going to list the tools I continiously rely on as my daily driver.  I've previosuly posted on various tools, but this post is meant to list a more inclusive list of tools used as my daily driver.  This by no means is a comprehensive toolset, and isn’t meant to say one tool is better then another.  The list below simply is a collection I have had success with in meeting my objectives.
 
-** All utilities are installed as outlined in their readme file with required dependencies.
+**All utilities are installed as outlined in their readme file with required dependencies.
 
 |           Type          |                                 Tool Name                                 |                                                                                               Description                                                                                               |
 |-----------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
