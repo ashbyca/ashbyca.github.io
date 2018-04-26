@@ -12,4 +12,4 @@ If you interested in reviewing the tools I have installed, how the different clo
 
 Additional References:<br>
 * [Favorite Tools](https://ashbyca.github.io/2016/analyst-lab/)
-* [Cloud Comparison]()
+* [Cloud Comparison](https://ashby.keybase.pub/Blog/Cloud%20Comparison.xls)
