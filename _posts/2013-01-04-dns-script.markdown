@@ -14,4 +14,4 @@ Prior to use, modifications will need to be made and include:
 
 After save the file, execute the script and when completed you will have a txt file that contains complete results.  If you receive errors they will be displayed in the command window.
 
-You can download the script [here](https://ashby.keybase.pub/Blog/Scripts/dnslookups.bat).
+You can download the script [here](https://www.icloud.com/iclouddrive/0iTqzwGyPocIAwdk1K3NIbkgw#dnslookup.bat).
