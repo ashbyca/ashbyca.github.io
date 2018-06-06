@@ -12,6 +12,6 @@ I used the following resources and approach:
 * Read the O'Hara [Study Guide](https://www.amazon.com/gp/product/1119277418/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * Practice questions with this [iOS app from ISC](https://itunes.apple.com/us/app/ccsp-study-isc-official-app/id1247187538?mt=8)
 
-While I can't elaborate on specfics of the exam or content I will share my [study notes](https://ashby.keybase.pub/Blog/CCSP-Study-Notes.pdf) and other [relevant docs](https://ashby.keybase.pub/Blog/CCSP%20Material.zip) for others if they are interested.
+While I can't elaborate on specfics of the exam or content I will share my [study notes](https://www.icloud.com/iclouddrive/0EGsqAhYMrtIgxgpyMwEWv5tA#CCSP-Study-Notes.pdf) and other [relevant docs](https://www.icloud.com/iclouddrive/0cW7Km1FGHxJBfBUKrNr_yY4A#CCSP_Material.zip) for others if they are interested.
 
 Good Luck!
