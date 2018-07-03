@@ -7,7 +7,7 @@ tags: [scripts]
 I use the terminal or command window a lot while using a computer.  For this reason, I have created a quick and dirty little script to log all my terminal commands that allow me to review and not have to worry about my buffer history being over written.
 
 To use and install the script:
-1. [Download](https://www.icloud.com/iclouddrive/0wsPdQBQ21pMfzHWgHVVL-KFQ#terminal%5Flogging.sh) this file
+1. [Download](https://ashby.keybase.pub/Blog/Scripts/terminal_logging.sh) this file
 2. Open your Terminal preferences and under shell options select run this command (shown below)
 3. Shell script to log terminal sessions, files are located in "Library/Logs/Terminal"		  
   
