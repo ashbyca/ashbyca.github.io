@@ -4,7 +4,7 @@ date:   2014-10-10 15:04:23
 categories: [threat intelligence]
 tags: [tools]
 ---
-One of the core function of cyber threat intelligence analyst focuses on providing actionable information on adversaries in an effort to remain one step ahead.  In my [previous post](https://ashbyca.github.io/2015/information-overload/) I shared my love for Feedly, which allows me to review large amounts of information around the web, also provided a link to my exported [OPML file](https://ashby.keybase.pub/Blog/feedly.opml.xml) for you to jump start your research.
+One of the core function of cyber threat intelligence analyst focuses on providing actionable information on adversaries in an effort to remain one step ahead.  In my [previous post](https://ashbyca.github.io/2015/information-overload/) I shared my love for Feedly, which allows me to review large amounts of information around the web, also provided a link to my exported [OPML file](https://ashby.keybase.pub/Blog/feedly.opml) for you to jump start your research.
 
 In this post, I'm going to share some of my favorite tools used.  Please note that this isn't an exhaustive list, and will change overtime - be sure to check back often!
 
