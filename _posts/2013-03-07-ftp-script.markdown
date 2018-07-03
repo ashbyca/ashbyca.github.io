@@ -17,4 +17,4 @@ Prior to use, modifications will need to be made and include:
 
 After save the file and execute the script.  All output will be in the command window.  If you receive errors they will be displayed in the command window.
 
-You can download the script [here](https://www.icloud.com/iclouddrive/02mh1lZqX2PgMmRKINHnfwbKA#ftptransfer.sh).
+You can download the script [here](https://ashby.keybase.pub/Blog/Scripts/ftptransfer.sh).
