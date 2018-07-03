@@ -6,8 +6,8 @@ tags: [scripts]
 ---
 Lately I have been playing around with Apple Script Editor to automate some tasks on my OSX device.  Descriptions and links are below if you find these useful or want to test:
 
-1. [Disable OSX Dashboard](https://ashby.keybase.pub/Blog/Scripts/Disable_OSX_Dashboard.zip)
-2. [Remove INET Downloads](https://ashby.keybase.pub/Blog/Scripts/Remove_INET_Downloads.zip)
+1. [Disable OSX Dashboard](https://ashby.keybase.pub/Blog/Scripts/Disable%20OSX%20Dashboard.zip)
+2. [Remove INET Downloads](https://ashby.keybase.pub/Blog/Scripts/Remove%20INET%20Downloads.zip)
 
 * To install, download each zip file above, extract the contents and copy to '''~/Library/Scripts'''.
 * Make sure to activate the menu option in Script Editor Preferences if you haven't already.
