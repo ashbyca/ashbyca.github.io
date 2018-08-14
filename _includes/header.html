@@ -72,6 +72,16 @@
                 </a>
               </li>
             {% endif %}
+              
+            {% if site.author.psn_username %}
+              <!-- Playstation -->
+              <li class="navigation__item">
+                <a href="http://https://my.playstation.com/profile/{{ site.author.psn_username }}" title="@{{ site.author.psn_username }} on Playstation" target="_blank">
+                  <i class="fab fa-playstation"></i>
+                  <span class="label">PSN</span>
+                </a>
+              </li>
+            {% endif %}
 
             {% if site.author.email %}
               <!-- Email -->
