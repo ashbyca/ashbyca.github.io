@@ -73,12 +73,12 @@
               </li>
             {% endif %}
               
-            {% if site.author.psn_username %}
-              <!-- Playstation -->
+            {% if site.author.steam_username %}
+              <!-- Steam -->
               <li class="navigation__item">
-                <a href="https://my.playstation.com/profile/{{ site.author.psn_username }}" title="{{ site.author.psn_username }} on Playstation" target="_blank">
+                <a href="https://steamcommunity.com/id/{{ site.author.psn_username }}" title="{{ site.author.steam_username }} on Steam" target="_blank">
                   <i class="icon icon-social-steam"></i>
-                  <span class="label">PSN</span>
+                  <span class="label">Steam</span>
                 </a>
               </li>
             {% endif %}
@@ -109,6 +109,18 @@
               <a href="https://ashby.keybase.pub/Blog/feedly.opml?dl=1" title="Current Reading List" target="_blank">
                 <i class="icon icon-rss"></i>
                 <span class="label">RSS</span>
+              </a>
+            <!-- CloudShare -->
+            <li class="navigation__item">
+              <a href="https://files.ashbyca.com" title="Shared Files" target="_blank">
+                <i class="icon icon-archive"></i>
+                <span class="label">Share</span>
+              </a>
+            <!-- PGP -->
+            <li class="navigation__item">
+              <a href="https://ashby.keybase.pub/Blog/GPGPub.txt" title="PGP Key" target="_blank">
+                <i class="icon icon-lock"></i>
+                <span class="label">PGP</span>
               </a>
             </li>
 
