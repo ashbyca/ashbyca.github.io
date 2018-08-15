@@ -6,8 +6,8 @@ Personal website located at http://ashbyca.com
 
 * Standards: HTML5, CSS3
 * Components: Jekyll, Chartjs
-* Software: Sublime Text, Photoshop, Font Awesome
-* Storage: Keybase.io
+* Software: Sublime Text, Photoshop, Font Awesome, [Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)
+* Storage: Keybase.io, GitHub
 
 ### Dynamic Links
 [Categories](https://ashbyca.github.io/categories)<br>
