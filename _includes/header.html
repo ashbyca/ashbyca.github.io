@@ -82,7 +82,17 @@
                 </a>
               </li> -->
             {% endif %}
-
+   
+            {% if site.author.yelp_username %}
+              <!-- Yelp -->
+              <li class="navigation__item">
+                <a href="https://{{site.author.yelp_uername}}.yelp.com" title="{{ site.author.yelp_username }} on Yelp" target="_blank">
+                  <i class="icon icon-social-yelp"></i>
+                  <span class="label">Yelp</span>
+                </a>
+              </li>
+            {% endif %}
+              
             {% if site.author.reddit_username %}
               <!-- Reddit -->
               <li class="navigation__item">
