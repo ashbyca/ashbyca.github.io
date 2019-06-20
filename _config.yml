@@ -1,14 +1,14 @@
 # Site settings
 title: Christopher Ashby
 description: 'CYBER ATTACK DETECTION & THREAT RESPONSE LEADER'
-url: 'http://ashbyca.com'
+url: 'https://ashbyca.com'
 baseurl: '/'
 google_analytics: 'UA-114021955-1'
 disqus_shortname: 'ashbyca'
 
 author:
   name: 'Christopher Ashby'
-  email: ashbyc@mac.com
+#email: ashbyc@mac.com
 #twitter_username: 
 #facebook_username:
   github_username:  ashbyca
@@ -16,7 +16,8 @@ author:
 #steam_username: ashbyca
   yelp_username: ashbyca
   reddit_username: ashbyca
-  
+#psn_username: kernalpanice
+
 defaults:
   -
     scope:
