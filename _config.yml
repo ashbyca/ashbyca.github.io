@@ -8,11 +8,11 @@ disqus_shortname: 'ashbyca'
 
 author:
   name: 'Christopher Ashby'
-#email: ashbyc@mac.com
+  email: ashbyc@mac.com
 #twitter_username: 
 #facebook_username:
   github_username:  ashbyca
-  gist_username: ashbyca
+  gists_username: ashbyca
   linkedin_username:  ashbyca
 #steam_username: ashbyca
 #yelp_username: ashbyca
