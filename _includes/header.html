@@ -112,7 +112,17 @@
                 </a>
               </li>
             {% endif %}
-
+              
+            {% if site.author.gist %}
+              <!-- Github Gist -->
+              <li class="navigation__item">
+                <a href="https://gist.github.com/{{ site.author.gist_username }}" title="{{ site.author.gist_username }} on GitHub Gists " target="_blank">
+                  <i class="icon page-edit"></i>
+                  <span class="label">Github Gists</span>
+                </a>
+              </li>
+            {% endif %}
+              
             <!-- RSS
             <li class="navigation__item">
               <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
@@ -121,12 +131,12 @@
                 <span class="label">RSS</span>
               </a> -->
             
-            <!-- CloudShare
+            <!-- CloudShare -->
             <li class="navigation__item">
-              <a href="https://keybase.pub/ashby/" title="Shared Files" target="_blank">
+              <a href="https://www.icloud.com/iclouddrive/0tkGO4_atioCwapS95jlyuMyQ#Public" title="Shared Files" target="_blank">
                 <i class="icon icon-archive"></i>
-                <span class="label">Share</span>
-              </a> -->
+                <span class="label">Public Share</span>
+              </a>
               
             <!-- Cyberlab 
             <li class="navigation__item">
