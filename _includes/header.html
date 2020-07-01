@@ -103,22 +103,32 @@
               </li>
             {% endif %}
               
-            {% if site.author.email %}
-              <!-- Email -->
-              <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
-                  <i class="icon icon-mail"></i>
-                  <span class="label">Email</span>
-                </a>
-              </li>
-            {% endif %}
-              
             {% if site.author.gist_username %}
               <!-- Github Gist -->
               <li class="navigation__item">
                 <a href="https://gist.github.com/{{ site.author.gist_username }}" title="{{ site.author.gist_username }} on GitHub Gists" target="_blank">
                   <i class="icon icon-pencil"></i>
                   <span class="label">Gists</span>
+                </a>
+              </li>
+            {% endif %}
+            
+              {% if site.author.psn_username %}
+              <!-- Playstation Network -->
+              <li class="navigation__item">
+                <a href="https://my.playstation.com/profile/{{ site.author.psn_username }}" title="{{ site.author.psn_username }} on Playstation Network" target="_blank">
+                  <i class="icon icon-psn"></i>
+                  <span class="label">Gists</span>
+                </a>
+              </li>
+            {% endif %}
+              
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
                 </a>
               </li>
             {% endif %}
