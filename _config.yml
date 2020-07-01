@@ -8,16 +8,16 @@ disqus_shortname: 'ashbyca'
 
 author:
   name: 'Christopher Ashby'
-#email: ashbyc@mac.com
-#twitter_username: 
-#facebook_username:
-  github_username:  ashbyca
+  email: ashbyc@mac.com
+  #twitter_username: 
+  #facebook_username:
+  github_username: ashbyca
   gist_username: ashbyca
-  linkedin_username:  ashbyca
-#steam_username: ashbyca
-#yelp_username: ashbyca
+  linkedin_username: ashbyca
+  #steam_username: ashbyca
+  #yelp_username: ashbyca
   reddit_username: ashbyca
-#psn_username: kernalpanic
+  #psn_username: kernalpanic
 
 defaults:
   -
