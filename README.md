@@ -19,3 +19,5 @@ It is under [the MIT license](/LICENSE).
 
 <a href="https://github.com/ashbyca">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashbyca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
