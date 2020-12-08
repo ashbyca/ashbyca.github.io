@@ -17,4 +17,4 @@ Personal website located at https://ashbyca.com
 
 It is under [the MIT license](/LICENSE).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashbyca)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashbyca)]
