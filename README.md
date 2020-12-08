@@ -22,3 +22,7 @@ It is under [the MIT license](/LICENSE).
 
 <a href="https://github.com/ashbyca">
 <img align="center" alt="Christopher's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca&langs_count=8" /></a>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca"
+/>
