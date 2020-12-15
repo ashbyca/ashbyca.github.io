@@ -21,6 +21,4 @@ It is under [the MIT license](/LICENSE).
 <img align="center" alt="Christopher's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashbyca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/ashbyca">
-<img align="center" alt="Christopher's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca&langs_count=8" /></a>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca />
+<img align="center" alt="Christopher's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbyca&langs_count=4" /></a>
