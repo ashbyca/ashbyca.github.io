@@ -142,6 +142,16 @@
                 </a>
               </li>
             {% endif %}
+            
+            {% if site.author.youtube_username %}
+              <!-- Youtube -->
+              <li class="navigation__item">
+                <a href="https://www.youtube.com/@ashbyca/{{ site.author.youtube_username }}" title="{{ site.author.youtube_username }} on YouTube" target="_blank">
+                  <i class="icon icon-social-youtube"></i>
+                  <span class="label">reddit</span>
+                </a>
+              </li>
+            {% endif %}
               
             <!-- RSS 
             <li class="navigation__item">
