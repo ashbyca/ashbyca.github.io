@@ -152,7 +152,17 @@
                 </a>
               </li>
             {% endif %}
-              
+
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-NQ700P8M40"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-NQ700P8M40');
+            </script>
+            
             <!-- RSS 
             <li class="navigation__item">
               <!-- <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
@@ -193,13 +203,4 @@
 
     <div class="panel-cover--overlay"></div>
   </div>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NQ700P8M40"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-NQ700P8M40');
-</script>
 </header>
