@@ -4,7 +4,7 @@ description: 'Global Security Leader | Board Member | Strategic Transformation E
 url: 'https://ashbyca.com'
 baseurl: '/'
 #google_analytics: 'UA-114021955-1'
-disqus_shortname: 'ashbyca'
+#disqus_shortname: 'ashbyca'
 
 author:
   name: 'Christopher Ashby'
@@ -17,8 +17,8 @@ author:
   linkedin_username: ashbyca
   #steam_username: ashbyca
   #yelp_username: ashbyca
-  reddit_username: ashbyca
-  youtube_username: ashbyca
+  #reddit_username: ashbyca
+  #youtube_username: ashbyca
   #psn_username: kernalpanic
   #toolkit_username: projects
 
